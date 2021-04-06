@@ -18,7 +18,7 @@
   - Tailwind　CSS
 - SQL
   - PostgreSQL
-- NoSOL
+- NoSQL
   - Firebase
 
 
