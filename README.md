@@ -8,8 +8,8 @@
 
 - JavaScript(TypeScript)
   - React.js
-- Node.js
   - Next.js
+- Node.js
   - Express.js
 - Gas
 - HTML
