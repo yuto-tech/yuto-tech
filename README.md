@@ -15,7 +15,7 @@
 - HTML
 - CSS
   - Styled Component
-  - Tailwind　CSS
+  - TailwindCSS
 - SQL
   - PostgreSQL
 - NoSQL
