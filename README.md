@@ -12,6 +12,7 @@
 - Node.js
   - Express.js
 - Gas
+- Haskell
 - HTML
 - CSS
   - Styled Component
