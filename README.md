@@ -19,7 +19,7 @@
   - TailwindCSS
 - SQL
   - PostgreSQL
-- NoSQL
+- mBaaS
   - Firebase
 
 
